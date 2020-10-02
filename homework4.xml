@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "xmlstylehw.css" ?>
+<songs>
+	<title> 
+		PLAYLIST
+	</title>
+	<song>
+		<artist>
+			<name> Kygo </name>
+		</artist>
+		<song_title> Higher Love </song_title>
+		<genre> Tropical House/EDM </genre>
+		<year>2019</year>
+	</song>
+
+	<song>
+		<artist>
+			<name> Avicii </name>
+		</artist>
+		<song_title> Levels </song_title>
+		<genre> Progressive House </genre>
+		<year>2011</year>
+	</song>
+
+	<song>
+		<artist>
+			<name> Tiesto</name>
+			<name> KSHMR </name>
+			<name> Vassy </name>
+		</artist>
+		<song_title> Secrets </song_title>
+		<genre> Progressive/Big Room House </genre>
+		<year>2015</year>
+	</song>
+
+	<song>
+		<artist>
+			<name> The Chainsmokers </name>
+		</artist>
+		<song_title> Roses </song_title>
+		<genre> Dance-pop </genre>
+		<year>2015</year>
+	</song>
+
+	<song>
+		<artist>
+			<name> One Direction </name>
+		</artist>
+		<song_title> Drag Me Down </song_title>
+		<genre> Pop rock </genre>
+		<year>2015</year>
+	</song>
+
+	<song>
+		<artist>
+			<name> Daft Punk </name>
+		</artist>
+		<song_title> Get Lucky </song_title>
+		<genre> Disco, Funk </genre>
+		<year>2013</year>
+	</song>
+
+	<song>
+		<artist>
+			<name> Ariana Grande </name>
+		</artist>
+		<song_title> 7 Rings </song_title>
+		<genre> Pop </genre>
+		<year>2019</year>
+	</song>
+
+	<song>
+		<artist>
+			<name> Stromae </name>
+		</artist>
+		<song_title> Papaoutai </song_title>
+		<genre> Synth-pop </genre>
+		<year>2013</year>
+	</song>
+
+	<song>
+		<artist>
+			<name> Britney Spears </name>
+		</artist>
+		<song_title> Piece of Me </song_title>
+		<genre> Pop </genre>
+		<year>2007</year>
+	</song>
+
+	<song>
+		<artist>
+			<name> David Guetta</name>
+			<name> Showtek </name>
+			<name> Vassy </name>
+		</artist>
+		<song_title> Bad </song_title>
+		<genre> Big Room House </genre>
+		<year>2014</year>
+	</song>
+</songs>

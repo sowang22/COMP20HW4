@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+songs {
+	background-color: #F5DCE0;
+}
+
+title {
+	display: block;
+	font-size: 30px; 
+	text-align: center; 
+	border-bottom: 3px solid #E18AAA;
+	font-family: "Stardos Stencil";
+	font-style: normal;
+	background-color: #FFB9C4;
+	color: #f8f8ff;
+}
+
+song {
+	display: block;
+	border-bottom: 3px solid #E18AAA;
+	padding: 8px 0;
+}
+
+song artist, song_title, genre, year {
+	display:block;
+	text-align: center; 
+}
+
+song artist {
+	font-weight: bold;
+}
+
+song song_title{
+	font-style: italic;
+	font-size: 20px;
+}
+
+song genre {
+	color: #696969;
+}
+
+song year:before {
+	content:"(";
+}
+
+song year:after {
+	content:")";
+}
+
